@@ -2,7 +2,7 @@
 Hi there 👋, I am Albert
 </h1>
 
-- 🔭 I’m currently working as a Senior Software Engineer / Technical Team Lead at [Kiwi.com](code.kiwi.com)
+- 🔭 I’m currently working as a Principal Engineer at [Oliva Health](https://www.oliva.health/)
 - 🔆 Currently living in Barcelona
 - 🏥 MSc. in Computational Biomedical Engineering / BSc. in Telecommunications Engineering
 - 🌱 Learning Svelte, Golang and Three.js / 3D rendering in web
