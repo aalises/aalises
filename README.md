@@ -2,10 +2,10 @@
 Hi there 👋, I am Albert
 </h1>
 
-- 🔭 I’m currently working as a Principal Engineer at [Oliva Health](https://www.oliva.health/)
+- 🔭 I’m currently working as a Principal Engineer at [Oliva Health](https://www.oliva.health/), previously Technical Lead at @kiwicom
 - 🔆 Currently living in Barcelona
 - 🏥 MSc. in Computational Biomedical Engineering / BSc. in Telecommunications Engineering
-- 🌱 Learning Svelte, Golang and Three.js / 3D rendering in web
+- 🌱 Learning Golang and Rust
 - 📫 How to reach me: add me on [LinkedIn](https://www.linkedin.com/in/albertalises/) or send me an [email](mailto:albert.alises@gmail.com) or some kimchi 
 🍜
 - 😄 Pronouns: He/him
