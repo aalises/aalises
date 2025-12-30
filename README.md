@@ -2,7 +2,7 @@
 Hi there 👋, I am Albert
 </h1>
 
-- 🔭 I’m currently working as an Engineering Manager at [Oliva Health](https://www.oliva.health/) where I was the founding engineer, previously Technical Lead at [Kiwi.com](https://www.kiwi.com/en/)
+- 🔭 I’m currently working as an AI and Product Engineer and Engineering Manager at [Oli](https://www.oliva.health/) where I was the founding engineer, previously Technical Lead at [Kiwi.com](https://www.kiwi.com/en/)
 - 🔆 Currently living in Barcelona
 - 🏥 MSc. in Computational Biomedical Engineering / BSc. in Telecommunications Engineering
 - 🌱 Learning Golang and Rust
