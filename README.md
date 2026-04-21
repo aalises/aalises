@@ -2,10 +2,9 @@
 Hi there 👋, I am Albert
 </h1>
 
-- 🔭 I’m currently working on Product/AI Engineering at [n8n.io](https://n8n.io/), previously an AI Engineering Manager at [Oli](https://www.oliva.health/) where I was the founding engineer, and Technical Lead at [Kiwi.com](https://www.kiwi.com/en/)
+- 🔭 I’m currently working on the AI team in AI/Product Engineering at [n8n.io](https://n8n.io/). I was previously an AI Engineering Manager and the Founding Engineer at [Oli](https://www.oliva.health/), and a Technical Lead at [Kiwi.com](https://www.kiwi.com/en/) on the Booking and Self-Service tribe
 - 🔆 Currently living in Barcelona
 - 🏥 MSc. in Computational Biomedical Engineering / BSc. in Telecommunications Engineering
-- 🌱 Learning Golang and Rust
 - 📫 How to reach me: add me on [LinkedIn](https://www.linkedin.com/in/albertalises/) or send me an [email](mailto:albert.alises@gmail.com) or some kimchi 
 🍜
 - 😄 Pronouns: He/him
